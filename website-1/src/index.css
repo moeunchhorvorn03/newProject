@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  position: absolute;
+    width: 1519px;
+    height: 989px;
+    background: #1E1E1E;
+}
+.rectangle-left{
+  position: absolute;
+  top: 0px;
+  width: 326px;
+  height: 989px;
+  background: #151515;
+}
